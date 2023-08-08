@@ -1,6 +1,7 @@
 # FoodHub Project
 
-In this project, I perform exploratory data analysis to get insights to answer questions that will help the company improve the business and offer great recommendations.
+In this project, I utilize exploratory data analysis (EDA) to delve into insights to address the business questions. Through EDA, I aim to provide valuable insights to foster business 
+growth and enhance customer experience. Machine learning models, including linear regression, have been implemented to bolster our recommendations further.
 
 ## About Project
 Living in major cities can be overwhelming, but having access to reliable information about highly rated restaurants and efficient food delivery services can significantly 
